@@ -40,7 +40,7 @@ Além disto é bom ter um editor para trabalhar com o código como [NetBeans](ht
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Francisco-Isganzella/SysRate.git>
+$ git clone <https://github.com/zipmiguel/SysRate.git>
 
 # No NetBeans abra o projeto
 # Na classe FabricaDeConexao altere o "SENHA na linha 25 pela senha configurada no seu MySQL
@@ -56,7 +56,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 🦸 Autores
-[![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-isganzella/)](https://www.linkedin.com/in/francisco-isganzella/)
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-philippi-a437551b4/)](https://www.linkedin.com/in/miguel-philippi-a437551b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-isganzella/)](https://www.linkedin.com/in/francisco-isganzella/)
 [![Linkedin Badge](https://img.shields.io/badge/-Tayna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayna-moraes-bb3001180/)](https://www.linkedin.com/in/tayna-moraes-bb3001180/)
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-boimer-correia-a0b33211b/)](https://www.linkedin.com/in/thiago-boimer-correia-a0b33211b/)
